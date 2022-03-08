@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "discord.json"
+  ],
+  "homeserver_url": "https://matrix.kvanttori.fi"
+}
